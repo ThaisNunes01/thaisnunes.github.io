@@ -24,12 +24,15 @@ button.btn:hover {
     color: #fff;
     
 } 
+a.dropdown-item {
+    font-size: 1.5em;
+}
 h1 {
     margin-left: 10%;
 }
 p {
     
-    font-size: 2em;
+    font-size: 1.5em;
     
 }
 .img-tamanho{
