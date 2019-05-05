@@ -1,0 +1,31 @@
+.contato {
+    margin-top: 2em;
+    text-align: center;
+}
+#contato li{
+    display: inline-block;
+}
+
+#contato li a{
+    display: inline-block;
+    margin: 1em;
+    width: 32px;
+    height: 32px;
+    text-indent: -9999px;
+}
+
+#contato .email{
+    background-image: url('../images/email.png');
+}
+#contato .facebook{
+    background-image: url('../images/facebook.png');
+}
+#contato .linkedin{
+    background-image: url('../images/linkedin.png');
+}
+#contato .twitter{
+    background-image: url('../images/twitter.png');
+}
+#contato .github{
+    background-image: url('../images/github.png');
+}
